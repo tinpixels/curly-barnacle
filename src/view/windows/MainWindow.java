@@ -18,7 +18,7 @@ public class MainWindow extends JFrame
 
     public MainWindow()
     {
-        super("MVC Test Application");
+        super("curly-barnacle");
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
         // Add components.
